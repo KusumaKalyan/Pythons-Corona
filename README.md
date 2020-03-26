@@ -3,7 +3,7 @@
 
 <h4>Just Download EXE File Others Are Not Necessary</h4>
 
-<b>Here is how the game looks like at starting,</b>
+<b>Here is how the game looks like at starting screen,</b>
 
 <img src='images/Start.PNG'>
 
