@@ -1,7 +1,7 @@
 # Pythons-Corona
-<b>This repository contains EXE file of Python's Corona game</b>
+<i><h3>This repository contains EXE file of Python's Corona game</h3></i>
 
-<h1>Just Download EXE File Others Are Not Necessary</h1>
+<h5>Just Download EXE File Others Are Not Necessary</h5>
 
 Here is how the game looks like at starting,
 
